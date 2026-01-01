@@ -1,0 +1,10 @@
+Hello 
+This is the input file from myFileCopy.txt
+
+This is Line 1
+This is Line 2
+This is Line 3
+
+
+abc
+xyz
